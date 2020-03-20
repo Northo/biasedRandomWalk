@@ -6,12 +6,11 @@ using Statistics
 
 #Random.seed!(10)  # Used for debugging
 
-D = 3.3E-4
-T = 230
+D = 1/10
 
 alpha = 0.2
 dt = get_max_dt(D, alpha, 0.05)
-t_end = 7000.0
+t_end = 100.0
 t = 0.0:dt:t_end
 
 @printf("dt computed to %.2e\nNumber of steps: %i", dt, length(t))
@@ -26,11 +25,14 @@ for i in eachindex(t[1:end-1])
         dt,
         D,
         alpha=alpha,
-        T=T,
+        time_dependent=false,
     )
 end
 
-#pyplot()
-p = plot(t, x, title=@sprintf("D = %.2f, T = %.1f", D, T))
-hline!([0.2:1:5], color="gray")
-vline!(1:T:t_end, color="gray")
+pos = range(-0.6, 0.2, length=100)
+pot = potential.(pos, 1, alpha=alpha, T=10.0, time_dependent=false)
+
+
+traj = plot(t, x, title="D = 1/10")
+# hist = histogram(x, normed=true)
+# plot!(pos, boltzmann_dist.(pot, D))
