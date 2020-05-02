@@ -6,7 +6,7 @@ using Statistics
 
 #Random.seed!(10)  # Used for debugging
 
-D = 1/10
+D = 1/5
 
 alpha = 0.2
 dt = get_max_dt(D, alpha, 0.05)
@@ -29,10 +29,13 @@ for i in eachindex(t[1:end-1])
     )
 end
 
-pos = range(-0.6, 0.2, length=100)
+pos = range(minimum(x), maximum(x), length=200)
 pot = potential.(pos, 1, alpha=alpha, T=10.0, time_dependent=false)
 
 
-traj = plot(t, x, title="D = 1/10")
-# hist = histogram(x, normed=true)
-# plot!(pos, boltzmann_dist.(pot, D))
+pgfplotsx()
+plot(t, x, title="D = 1/10", label="")
+#gr()
+#hist = histogram(x, normed=true, lab="Simulated distribution")
+#plot(x, normed=true, lab="Simulated distribution", t=:histogram, leg=false)
+#plot!(pos, boltzmann_dist.(pot, D), lab="Boltzmann distribution")

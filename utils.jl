@@ -40,6 +40,7 @@ end
 
 function euler_step(x, t, dt, D; alpha=0.5, T=1.0, time_dependent=true)
     return x -
+        
         potential_force(x, t, alpha=alpha, T=T, time_dependent=time_dependent) * dt +
         sqrt(2*D*dt) * stochastic()
 end

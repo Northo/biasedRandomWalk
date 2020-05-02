@@ -1,0 +1,874 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.4.6)  27 APR 2020 13:08
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2019-10-01> patch level 1
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/08/27 v1.4j Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2019/04/01 v2.17c AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2855.
+LaTeX Info: Redefining \] on input line 2856.
+)
+(/usr/share/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen112
+\pgfutil@tempdimb=\dimen113
+
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex))
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box29
+
+(/usr/share/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2019/08/03 v3.1.4b (3.1.4b)
+))
+Package: pgf 2019/08/03 v3.1.4b (3.1.4b)
+
+(/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/10/08 v1.3c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+(/usr/share/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2019/08/03 v3.1.4b (3.1.4b)
+
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks21
+\pgfkeys@temptoks=\toks22
+
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks23
+))
+\pgf@x=\dimen116
+\pgf@y=\dimen117
+\pgf@xa=\dimen118
+\pgf@ya=\dimen119
+\pgf@xb=\dimen120
+\pgf@yb=\dimen121
+\pgf@xc=\dimen122
+\pgf@yc=\dimen123
+\pgf@xd=\dimen124
+\pgf@yd=\dimen125
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count100
+\c@pgf@countb=\count101
+\c@pgf@countc=\count102
+\c@pgf@countd=\count103
+\t@pgf@toka=\toks24
+\t@pgf@tokb=\toks25
+\t@pgf@tokc=\toks26
+\pgf@sys@id@count=\count104
+
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2019/08/03 v3.1.4b (3.1.4b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2019/08/03 v3.1.4b (3.1.4b)
+
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2019/08/03 v3.1.4b (3.1.4b)
+)))
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfsyssoftpath@smallbuffer@items=\count105
+\pgfsyssoftpath@bigbuffer@items=\count106
+)
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+))
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2019/08/03 v3.1.4b (3.1.4b)
+
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen126
+\pgfmath@count=\count107
+\pgfmath@box=\box30
+\pgfmath@toks=\toks27
+\pgfmath@stack@operand=\toks28
+\pgfmath@stack@operation=\toks29
+)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code
+.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.te
+x) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics
+.code.tex))) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count108
+)) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@picminx=\dimen127
+\pgf@picmaxx=\dimen128
+\pgf@picminy=\dimen129
+\pgf@picmaxy=\dimen130
+\pgf@pathminx=\dimen131
+\pgf@pathmaxx=\dimen132
+\pgf@pathminy=\dimen133
+\pgf@pathmaxy=\dimen134
+\pgf@xx=\dimen135
+\pgf@xy=\dimen136
+\pgf@yx=\dimen137
+\pgf@yy=\dimen138
+\pgf@zx=\dimen139
+\pgf@zy=\dimen140
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@path@lastx=\dimen141
+\pgf@path@lasty=\dimen142
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@shorten@end@additional=\dimen143
+\pgf@shorten@start@additional=\dimen144
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfpic=\box31
+\pgf@hbox=\box32
+\pgf@layerbox@main=\box33
+\pgf@picture@serial@count=\count109
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgflinewidth=\dimen145
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
+ex
+File: pgfcoretransformations.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@pt@x=\dimen146
+\pgf@pt@y=\dimen147
+\pgf@pt@temp=\dimen148
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.te
+x
+File: pgfcorepathprocessing.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfarrowsep=\dimen149
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@max=\dimen150
+\pgf@sys@shading@range@num=\count110
+\pgf@shadingcount=\count111
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfexternal@startupbox=\box34
+))
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfnodeparttextbox=\box35
+)
+(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@nodesepstart=\dimen151
+\pgf@nodesepend=\dimen152
+)
+(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
+))
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2019/08/03 v3.1.4b (3.1.4b)
+
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen153
+\pgffor@skip=\dimen154
+\pgffor@stack=\toks30
+\pgffor@toks=\toks31
+))
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2019/08/03 v3.1.4b (3.1.4b)
+
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.te
+x
+File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@plot@mark@count=\count112
+\pgfplotmarksize=\dimen155
+)
+\tikz@lastx=\dimen156
+\tikz@lasty=\dimen157
+\tikz@lastxsaved=\dimen158
+\tikz@lastysaved=\dimen159
+\tikz@lastmovetox=\dimen160
+\tikz@lastmovetoy=\dimen161
+\tikzleveldistance=\dimen162
+\tikzsiblingdistance=\dimen163
+\tikz@figbox=\box36
+\tikz@figbox@bg=\box37
+\tikz@tempbox=\box38
+\tikz@tempbox@bg=\box39
+\tikztreelevel=\count113
+\tikznumberofchildren=\count114
+\tikznumberofcurrentchild=\count115
+\tikz@fig@count=\count116
+ (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfmatrixcurrentrow=\count117
+\pgfmatrixcurrentcolumn=\count118
+\pgf@matrix@numberofcolumns=\count119
+)
+\tikz@expandcount=\count120
+
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+topaths.code.tex
+File: tikzlibrarytopaths.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+))) (/usr/share/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2019-01-16 v2.0c non-zero parskip adjustments
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count121
+))
+(/usr/share/texmf-dist/tex/latex/siunitx/siunitx.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2019-10-28 L3 programming layer (loader) 
+
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2019-10-28 L3 programming layer (code)
+\c_max_int=\count122
+\l_tmpa_int=\count123
+\l_tmpb_int=\count124
+\g_tmpa_int=\count125
+\g_tmpb_int=\count126
+\l__seq_internal_a_int=\count127
+\l__seq_internal_b_int=\count128
+\g__kernel_prg_map_int=\count129
+\c__ior_term_noprompt_ior=\count130
+\c_log_iow=\count131
+\l_iow_line_count_int=\count132
+\l__iow_line_target_int=\count133
+\l__iow_one_indent_int=\count134
+\l__iow_indent_int=\count135
+\c_zero_dim=\dimen164
+\c_max_dim=\dimen165
+\l_tmpa_dim=\dimen166
+\l_tmpb_dim=\dimen167
+\g_tmpa_dim=\dimen168
+\g_tmpb_dim=\dimen169
+\c_zero_skip=\skip46
+\c_max_skip=\skip47
+\l_tmpa_skip=\skip48
+\l_tmpb_skip=\skip49
+\g_tmpa_skip=\skip50
+\g_tmpb_skip=\skip51
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+\l_keys_choice_int=\count136
+\l__intarray_loop_int=\count137
+\c__intarray_sp_dim=\dimen170
+\g__intarray_font_int=\count138
+\c__fp_leading_shift_int=\count139
+\c__fp_middle_shift_int=\count140
+\c__fp_trailing_shift_int=\count141
+\c__fp_big_leading_shift_int=\count142
+\c__fp_big_middle_shift_int=\count143
+\c__fp_big_trailing_shift_int=\count144
+\c__fp_Bigg_leading_shift_int=\count145
+\c__fp_Bigg_middle_shift_int=\count146
+\c__fp_Bigg_trailing_shift_int=\count147
+\c__kernel_randint_max_int=\count148
+\g__fp_array_int=\count149
+\l__fp_array_loop_int=\count150
+\l__sort_length_int=\count151
+\l__sort_min_int=\count152
+\l__sort_top_int=\count153
+\l__sort_max_int=\count154
+\l__sort_true_max_int=\count155
+\l__sort_block_int=\count156
+\l__sort_begin_int=\count157
+\l__sort_end_int=\count158
+\l__sort_A_int=\count159
+\l__sort_B_int=\count160
+\l__sort_C_int=\count161
+\l__str_internal_int=\count162
+\c__str_replacement_char_int=\count163
+\l__tl_analysis_normal_int=\count164
+\l__tl_analysis_index_int=\count165
+\l__tl_analysis_nesting_int=\count166
+\l__tl_analysis_type_int=\count167
+\l__regex_internal_a_int=\count168
+\l__regex_internal_b_int=\count169
+\l__regex_internal_c_int=\count170
+\l__regex_balance_int=\count171
+\l__regex_group_level_int=\count172
+\l__regex_mode_int=\count173
+\c__regex_cs_in_class_mode_int=\count174
+\c__regex_cs_mode_int=\count175
+\l__regex_catcodes_int=\count176
+\l__regex_default_catcodes_int=\count177
+\c__regex_catcode_D_int=\count178
+\c__regex_catcode_S_int=\count179
+\c__regex_catcode_L_int=\count180
+\c__regex_catcode_O_int=\count181
+\c__regex_catcode_A_int=\count182
+\c__regex_all_catcodes_int=\count183
+\l__regex_show_lines_int=\count184
+\l__regex_min_state_int=\count185
+\l__regex_max_state_int=\count186
+\l__regex_left_state_int=\count187
+\l__regex_right_state_int=\count188
+\l__regex_capturing_group_int=\count189
+\l__regex_min_pos_int=\count190
+\l__regex_max_pos_int=\count191
+\l__regex_curr_pos_int=\count192
+\l__regex_start_pos_int=\count193
+\l__regex_success_pos_int=\count194
+\l__regex_curr_char_int=\count195
+\l__regex_curr_catcode_int=\count196
+\l__regex_last_char_int=\count197
+\l__regex_case_changed_char_int=\count198
+\l__regex_curr_state_int=\count199
+\l__regex_step_int=\count266
+\l__regex_min_active_int=\count267
+\l__regex_max_active_int=\count268
+\l__regex_replacement_csnames_int=\count269
+\l__regex_match_count_int=\count270
+\l__regex_min_submatch_int=\count271
+\l__regex_submatch_int=\count272
+\l__regex_zeroth_submatch_int=\count273
+\g__regex_trace_regex_int=\count274
+\c_empty_box=\box40
+\l_tmpa_box=\box41
+\l_tmpb_box=\box42
+\g_tmpa_box=\box43
+\g_tmpb_box=\box44
+\l__box_top_dim=\dimen171
+\l__box_bottom_dim=\dimen172
+\l__box_left_dim=\dimen173
+\l__box_right_dim=\dimen174
+\l__box_top_new_dim=\dimen175
+\l__box_bottom_new_dim=\dimen176
+\l__box_left_new_dim=\dimen177
+\l__box_right_new_dim=\dimen178
+\l__box_internal_box=\box45
+\l__coffin_internal_box=\box46
+\l__coffin_internal_dim=\dimen179
+\l__coffin_offset_x_dim=\dimen180
+\l__coffin_offset_y_dim=\dimen181
+\l__coffin_x_dim=\dimen182
+\l__coffin_y_dim=\dimen183
+\l__coffin_x_prime_dim=\dimen184
+\l__coffin_y_prime_dim=\dimen185
+\c_empty_coffin=\box47
+\l__coffin_aligned_coffin=\box48
+\l__coffin_aligned_internal_coffin=\box49
+\l_tmpa_coffin=\box50
+\l_tmpb_coffin=\box51
+\g_tmpa_coffin=\box52
+\g_tmpb_coffin=\box53
+\l__coffin_bounding_shift_dim=\dimen186
+\l__coffin_left_corner_dim=\dimen187
+\l__coffin_right_corner_dim=\dimen188
+\l__coffin_bottom_corner_dim=\dimen189
+\l__coffin_top_corner_dim=\dimen190
+\l__coffin_scaled_total_height_dim=\dimen191
+\l__coffin_scaled_width_dim=\dimen192
+\c__coffin_empty_coffin=\box54
+\l__coffin_display_coffin=\box55
+\l__coffin_display_coord_coffin=\box56
+\l__coffin_display_pole_coffin=\box57
+\l__coffin_display_offset_dim=\dimen193
+\l__coffin_display_x_dim=\dimen194
+\l__coffin_display_y_dim=\dimen195
+\g__char_data_ior=\read2
+
+(/usr/share/texmf-dist/tex/latex/l3kernel/l3deprecation.def
+File: l3deprecation.def 2019-04-06 v L3 Deprecated functions
+))
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2019-04-06 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count275
+\l__pdf_internal_box=\box58
+))
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2019-10-11 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count276
+\g__xparse_grabber_int=\count277
+\l__xparse_m_args_int=\count278
+\l__xparse_v_nesting_int=\count279
+)
+Package: siunitx 2019/10/10 v2.7t A comprehensive (SI) units package
+
+(/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen196
+\ar@mcellbox=\box59
+\extrarowheight=\dimen197
+\NC@list=\toks32
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box60
+)
+(/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2019-10-11 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box61
+\l__siunitx_tmp_dim=\dimen198
+\l__siunitx_tmp_int=\count280
+\l__siunitx_number_mantissa_length_int=\count281
+\l__siunitx_number_uncert_length_int=\count282
+\l__siunitx_round_int=\count283
+\l__siunitx_process_decimal_int=\count284
+\l__siunitx_process_uncertainty_int=\count285
+\l__siunitx_process_fixed_int=\count286
+\l__siunitx_process_integer_min_int=\count287
+\l__siunitx_process_precision_int=\count288
+\l__siunitx_group_min_int=\count289
+\l__siunitx_angle_marker_box=\box62
+\l__siunitx_angle_unit_box=\box63
+\l__siunitx_angle_marker_dim=\dimen199
+\l__siunitx_angle_unit_dim=\dimen256
+\l__siunitx_unit_int=\count290
+\l__siunitx_unit_denominator_int=\count291
+\l__siunitx_unit_numerator_int=\count292
+\l__siunitx_unit_prefix_int=\count293
+\l__siunitx_unit_prefix_base_int=\count294
+\l__siunitx_unit_prefix_gram_int=\count295
+\l__siunitx_number_product_int=\count296
+\c__siunitx_one_fill_skip=\skip54
+\l__siunitx_table_unit_align_skip=\skip55
+\l__siunitx_table_exponent_dim=\dimen257
+\l__siunitx_table_integer_dim=\dimen258
+\l__siunitx_table_mantissa_dim=\dimen259
+\l__siunitx_table_marker_dim=\dimen260
+\l__siunitx_table_result_dim=\dimen261
+\l__siunitx_table_uncert_dim=\dimen262
+\l__siunitx_table_fill_pre_dim=\dimen263
+\l__siunitx_table_fill_post_dim=\dimen264
+\l__siunitx_table_fill_mid_dim=\dimen265
+\l__siunitx_table_pre_box=\box64
+\l__siunitx_table_post_box=\box65
+\l__siunitx_table_mantissa_box=\box66
+\l__siunitx_table_result_box=\box67
+\l__siunitx_table_number_align_skip=\skip56
+\l__siunitx_table_text_align_skip=\skip57
+
+(/usr/share/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
+))
+(/usr/share/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2019/09/01 v1.3a Sub-captions (AR)
+
+(/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2019/09/01 v3.3d Customizing captions (AR)
+
+(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2019/09/01 v1.8d caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen266
+\captionmargin@=\dimen267
+\captionwidth=\dimen268
+\caption@tempdima=\dimen269
+\caption@indent=\dimen270
+\caption@parindent=\dimen271
+\caption@hangindent=\dimen272
+)
+\c@caption@flags=\count297
+\c@ContinuedFloat=\count298
+)
+\c@subfigure=\count299
+\c@subtable=\count300
+) (./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
+ABD: EveryShipout initializing macros
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count301
+\scratchdimen=\dimen273
+\scratchbox=\box68
+\nofMPsegments=\count302
+\nofMParguments=\count303
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count304
+\MPscratchDim=\dimen274
+\MPnumerator=\count305
+\makeMPintoPDFobject=\count306
+\everyMPtoPDFconversion=\toks34
+) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/usr/share/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2019/07/11 v1.2j UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
+   defining Unicode char U+FEFF (decimal 65279)
+)
+(/usr/share/texmf-dist/tex/latex/translator/translator-basic-dictionary-English
+.dict
+Dictionary: translator-basic-dictionary, Language: English 
+) (/usr/share/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
+50.
+
+(/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+) [3]
+<media/diffusion.pdf, id=30, 462.52798pt x 346.89601pt>
+File: media/diffusion.pdf Graphic file (type pdf)
+<use media/diffusion.pdf>
+Package pdftex.def Info: media/diffusion.pdf  used on input line 165.
+(pdftex.def)             Requested size: 292.5pt x 219.38725pt.
+<media/boltzmannD01.pdf, id=31, 419.71606pt x 270.43533pt>
+File: media/boltzmannD01.pdf Graphic file (type pdf)
+<use media/boltzmannD01.pdf>
+Package pdftex.def Info: media/boltzmannD01.pdf  used on input line 172.
+(pdftex.def)             Requested size: 191.10214pt x 123.13492pt.
+<media/boltzmannD02.pdf, id=32, 408.85548pt x 266.05296pt>
+File: media/boltzmannD02.pdf Graphic file (type pdf)
+<use media/boltzmannD02.pdf>
+Package pdftex.def Info: media/boltzmannD02.pdf  used on input line 173.
+(pdftex.def)             Requested size: 191.10214pt x 124.35477pt.
+<media/particle_trajectory.pdf, id=33, 415.46516pt x 291.58736pt>
+File: media/particle_trajectory.pdf Graphic file (type pdf)
+<use media/particle_trajectory.pdf>
+Package pdftex.def Info: media/particle_trajectory.pdf  used on input line 180.
+
+(pdftex.def)             Requested size: 292.5pt x 205.2977pt.
+ [4 <./media/diffusion.pdf>]
+<media/drift_dist.pdf, id=50, 462.52798pt x 346.89601pt>
+File: media/drift_dist.pdf Graphic file (type pdf)
+<use media/drift_dist.pdf>
+Package pdftex.def Info: media/drift_dist.pdf  used on input line 212.
+(pdftex.def)             Requested size: 292.5pt x 219.38725pt.
+<media/particle_separation.pdf, id=51, 462.52798pt x 346.89601pt>
+File: media/particle_separation.pdf Graphic file (type pdf)
+<use media/particle_separation.pdf>
+Package pdftex.def Info: media/particle_separation.pdf  used on input line 221.
+
+(pdftex.def)             Requested size: 292.5pt x 219.38725pt.
+ [5 <./media/boltzmannD01.pdf> <./media/boltzmannD02.pdf>] [6 <./media/particle
+_trajectory.pdf>] [7 <./media/drift_dist.pdf> <./media/particle_separation.pdf
+
+pdfTeX warning: pdflatex (file ./media/particle_separation.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>] (./report.aux) ) 
+Here is how much of TeX's memory you used:
+ 26539 strings out of 492167
+ 540330 string characters out of 6131559
+ 548493 words of memory out of 5000000
+ 30595 multiletter control sequences out of 15000+600000
+ 544815 words of font info for 70 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,13n,67p,813b,783s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1
+.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
+re/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><
+/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pf
+b></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/c
+m-super/sfrm1200.pfb>
+Output written on report.pdf (7 pages, 463095 bytes).
+PDF statistics:
+ 203 PDF objects out of 1000 (max. 8388607)
+ 122 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+
